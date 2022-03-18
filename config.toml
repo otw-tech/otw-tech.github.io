@@ -1,4 +1,4 @@
 theme = "dimension"
 title = "On The Wire"
-baseURL = "https://onthewire.tech"
+baseURL = "https://otw-tech.github.io"
 publishDir = "docs"
